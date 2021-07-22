@@ -1,0 +1,21 @@
+{
+  "name": "sit725-2021-t2-prac2",
+  "version": "1.0.0",
+  "description": "sit725 prac2",
+  "main": "server.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdachepalli/sit725-2021-t2-prac2.git"
+  },
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "author": "hdachepalli",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hdachepalli/sit725-2021-t2-prac2/issues"
+  },
+  "homepage": "https://github.com/hdachepalli/sit725-2021-t2-prac2#readme"
+}
