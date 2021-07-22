@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "description": "sit725 prac2",
   "main": "server.js",
-  "scripts": {},
+  "scripts": {
+    "start": "node server.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/hdachepalli/sit725-2021-t2-prac2.git"
